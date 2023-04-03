@@ -1,2 +1,8 @@
-3.8.138.22
-18.168.220.219
+[web_servers]
+3.10.211.111 ansible_user=admin
+
+[db_servers]
+18.133.75.211 ansible_user=admin
+
+[file_servers]
+3.8.190.76 ansible_user=centos
