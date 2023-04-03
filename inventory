@@ -6,3 +6,6 @@
 
 [file_servers]
 3.8.190.76 ansible_user=centos
+
+[workstations]
+18.130.183.182 ansible_user=admin
