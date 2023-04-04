@@ -1,11 +1,11 @@
 [web_servers]
-3.10.211.111 ansible_user=admin
+18.133.254.29 ansible_user=centos
 
 [db_servers]
-18.133.75.211 ansible_user=admin
+18.169.17.31 ansible_user=admin
 
 [file_servers]
-3.8.190.76 ansible_user=centos
+3.8.189.27 ansible_user=admin
 
 [workstations]
-18.130.183.182 ansible_user=admin
+18.169.190.153 ansible_user=admin
